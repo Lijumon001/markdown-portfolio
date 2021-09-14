@@ -1,1 +1,6 @@
-Replace this with a link to your a GitHub or social media profile.
+# This is an <h1> header, which is the largest
+## This is an <h2> header
+###### This is an <h6> header, which is
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+[GitHub](http://github.com)
