@@ -1,3 +1,3 @@
-*Trivandrum
-*kochi
-*kollam
+* Trivandrum
+* Kochi
+* Kollam
